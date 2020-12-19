@@ -9,7 +9,6 @@ i:textures/duck.png:1472:image/png
 i:textures/misc.png:796:image/png
 i:textures/mob.png:3877:image/png
 i:textures/point.png:123:image/png
-i:textures/wall.png:130:image/png
 i:textures/walls.png:2110:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:859:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2996:application/unknown
