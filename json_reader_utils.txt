@@ -1,1 +1,1 @@
-funkcja do czytania json
+funkcja do czytania json - kurwa
